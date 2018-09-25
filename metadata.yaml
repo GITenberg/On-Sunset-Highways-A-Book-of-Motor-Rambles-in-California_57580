@@ -1,0 +1,25 @@
+_repo: On-Sunset-Highways-A-Book-of-Motor-Rambles-in-California_57580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murphy, Thomas Dowler
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '49465'
+    url: http://www.gutenberg.org/2009/agents/49465
+description: ''
+gutenberg_issued: '2018-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- GITenberg
+title: 'On Sunset Highways
+
+  A Book of Motor Rambles in California'
+url: http://www.gutenberg.org/ebooks/57580
