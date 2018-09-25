@@ -1,5 +1,8 @@
 _repo: On-Sunset-Highways-A-Book-of-Motor-Rambles-in-California_57580
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57580-h/images/cover.jpg
 creator:
   author:
     agent_name: Murphy, Thomas Dowler
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49465'
     url: http://www.gutenberg.org/2009/agents/49465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57580#On-Sunset-Highways-A-Book-of-Motor-Rambles-in-California
 gutenberg_issued: '2018-07-25'
 gutenberg_type: Text
 identifiers:
